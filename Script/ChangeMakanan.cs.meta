@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cfd24940b4ca928418b83733761d75e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - pizza: {fileID: 21300000, guid: 7c8388832e9c46548b4cc0a5b777bb19, type: 3}
+  - ice_cream: {fileID: 21300000, guid: ae4c4a4012638fa43b90ed3aacd607b7, type: 3}
+  - apel: {fileID: 21300000, guid: ae6e634c01b449d48822c470a6fb91b2, type: 3}
+  - cola: {fileID: 21300000, guid: 1c60195741c002e49a9bf819c65bdb02, type: 3}
+  - banana: {fileID: 21300000, guid: 3a41aec60968d134a8f4f6c99fb2aafe, type: 3}
+  - water: {fileID: 21300000, guid: f6967d45139d9f34bba18cca42b62155, type: 3}
+  - yourButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
